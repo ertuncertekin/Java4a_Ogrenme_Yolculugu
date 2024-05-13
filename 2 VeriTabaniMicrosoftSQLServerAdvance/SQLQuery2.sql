@@ -1,0 +1,7 @@
+---Brazil’de bulunan müþterilerin Þirket Adý, TemsilciAdi, Adres, Þehir, Ülke bilgileri
+-- Brezilya’da olmayan müþteriler
+-- Ülkesi (Country) YA Spain, Ya France, Ya da Germany olan müþteriler
+-- Faks numarasýný bilmediðim müþteriler
+-- Londra’da ya da Paris’de bulunan müþterilerim
+-- Müþterilerimin içinde en uzun isimli müþteri
+--Hem Mexico D.F’da ikamet eden HEM DE ContactTitle bilgisi ‘owner’ olan müþteriler
