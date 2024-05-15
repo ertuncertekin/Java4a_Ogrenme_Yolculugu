@@ -1,0 +1,10 @@
+BEGIN TRY
+--Hata öngürüldüðünde yazýlýr
+SELECT 10/2
+END TRY
+
+BEGIN CATCH
+--Bir hata olunca çalýþacak kod
+--PRINT 'HATA OLUÞTU.'
+SELECT ERROR_NUMBER(),ERROR_LINE(),ERROR_MESSAGE()
+END CATCH
